@@ -1,0 +1,9 @@
+C:\Users\markw\Documents\Visual Studio 2010\Projects\WPF_Projects\RiverCrossPuzzle\RiverCrossPuzzle\bin\Debug\RiverCrossPuzzle.dll
+C:\Users\markw\Documents\Visual Studio 2010\Projects\WPF_Projects\RiverCrossPuzzle\RiverCrossPuzzle\bin\Debug\RiverCrossPuzzle.pdb
+C:\Users\markw\Documents\Visual Studio 2010\Projects\WPF_Projects\RiverCrossPuzzle\RiverCrossPuzzle\bin\Debug\nunit.framework.dll
+C:\Users\markw\Documents\Visual Studio 2010\Projects\WPF_Projects\RiverCrossPuzzle\RiverCrossPuzzle\bin\Debug\Shouldly.dll
+C:\Users\markw\Documents\Visual Studio 2010\Projects\WPF_Projects\RiverCrossPuzzle\RiverCrossPuzzle\bin\Debug\nunit.framework.xml
+C:\Users\markw\Documents\Visual Studio 2010\Projects\WPF_Projects\RiverCrossPuzzle\RiverCrossPuzzle\bin\Debug\Shouldly.pdb
+C:\Users\markw\Documents\Visual Studio 2010\Projects\WPF_Projects\RiverCrossPuzzle\RiverCrossPuzzle\obj\Debug\RiverCrossPuzzle.csprojResolveAssemblyReference.cache
+C:\Users\markw\Documents\Visual Studio 2010\Projects\WPF_Projects\RiverCrossPuzzle\RiverCrossPuzzle\obj\Debug\RiverCrossPuzzle.dll
+C:\Users\markw\Documents\Visual Studio 2010\Projects\WPF_Projects\RiverCrossPuzzle\RiverCrossPuzzle\obj\Debug\RiverCrossPuzzle.pdb
