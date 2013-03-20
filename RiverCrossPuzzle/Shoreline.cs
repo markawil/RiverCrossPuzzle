@@ -7,6 +7,11 @@ namespace RiverCrossPuzzle
    {
       private List<Occupant> _occupants = new List<Occupant>();
 
+      public IEnumerable<Occupant> Occupants
+      {
+         get { return _occupants; }
+      }
+
       public void AddOccupant(Occupant occupant)
       {
          _occupants.Add(occupant);
